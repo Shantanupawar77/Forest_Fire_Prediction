@@ -5,4 +5,12 @@ Jinja2==2.11.2
 MarkupSafe==1.1.1
 Werkzeug==1.0.1
 Gunicorn
-numpy 
+numpy
+pandas
+sklearn
+pickle
+Flask
+request
+url_for
+redirect
+render_template
