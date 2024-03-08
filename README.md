@@ -20,8 +20,4 @@ This is a Flask web application that predicts the probability of a forest fire b
 
 The machine learning model used for prediction is stored in `model.pkl` file.
 
-## Contributors
-
-- Shantanu Pawar(Shantanupawar77)
-
   
