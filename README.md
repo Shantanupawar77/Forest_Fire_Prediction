@@ -15,6 +15,8 @@ This is a Flask web application that predicts the probability of a forest fire b
 - HTML/CSS
 - Bootstrap
 - Machine Learning (Sci-kit Learn)
+# Demo 
+ The application is hosted at https://forest-fire-prediction-fnfz.onrender.com
   
 ## Model
 
